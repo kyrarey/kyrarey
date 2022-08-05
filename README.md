@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/tppuIDD4yqsIraL6gA" width="284" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KOMMUNIKATIONLOHNZICH-pixel-team-lohnzich-tppuIDD4yqsIraL6gA">via GIPHY</a></p>
+![](3oa.gif)
 
 <a href="https://www.linkedin.com/in/kyrarey/">
     <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
