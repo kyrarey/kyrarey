@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://c.tenor.com/4qaiBIQUBMsAAAAC/yoshi-run.gif)
-### 🌱 :four_leaf_clover: Hello World 🦜 🍐
-- :cherry_blossom: name: kyra rey
-- :bouquet: pronouns: she/her
-- 🇦🇷 nationality: argentinian
-- :sunflower: age: 19
-- :cat2: skills: javascript, html/css, react, node, express, mongoDB, sequelize, passport, postreSQL
-- :snowflake: learning: sass, locomotive scroll, redux
-- 🔭 workingOn: portfolio
-- :ocean: hobbies: reading, baking, coding
+# 🌱 :four_leaf_clover: Hello World 🦜 🍐
+![](https://c.tenor.com/4qaiBIQUBMsAAAAC/yoshi-run.gif) \
+:cherry_blossom: name: kyra rey \
+:bouquet: pronouns: she/her \
+🇦🇷 nationality: argentinian \
+:sunflower: age: 19 \
+:cat2: skills: javascript, html/css, react, node, express, mongoDB, sequelize, passport, postreSQL \
+:snowflake: learning: sass, locomotive scroll, redux \
+🔭 workingOn: portfolio \
+:ocean: hobbies: reading, baking, coding \
