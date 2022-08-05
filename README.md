@@ -1,8 +1,8 @@
-### Hi there 👋
 
 <!--
 **kyrarey/kyrarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img src="[https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021)"/>
 
-🌱  🌎  🍀  🦜 🍐
-Hello World! 
+🌱  🌎  :four_leaf_clover:  🦜 🍐
+### Hello World!
 
 const kyra = {
 name: 'kyra rey ⭐',
@@ -36,5 +36,3 @@ hobbies: ['reading', 'baking', 'coding']
     <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrarey&theme=dark"/>
