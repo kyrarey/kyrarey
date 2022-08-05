@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](3oa.gif)
 
 <a href="https://www.linkedin.com/in/kyrarey/">
-    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="26" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
 
