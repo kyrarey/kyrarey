@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 :cat2: skills: javascript, html/css, react, node, express, mongoDB, sequelize, passport, postreSQL \
 :snowflake: learning: sass, locomotive scroll, redux \
 🔭 workingOn: portfolio \
-:ocean: hobbies: reading, baking, coding \
+:ocean: hobbies: reading, baking, coding
