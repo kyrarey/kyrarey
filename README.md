@@ -16,22 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](3oa.gif)
-
-<a href="https://www.linkedin.com/in/kyrarey/">
-    <img height="26" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-
-
-🌱  🌎  :four_leaf_clover:  🦜 🍐
-### Hello World!
-
+![](https://c.tenor.com/4qaiBIQUBMsAAAAC/yoshi-run.gif)
+### 🌱 :four_leaf_clover: Hello World 🦜 🍐
 - :cherry_blossom: name: kyra rey
-- :chestnut: pronouns: she/her
+- :bouquet: pronouns: she/her
 - 🇦🇷 nationality: argentinian
 - :sunflower: age: 19
 - :cat2: skills: javascript, html/css, react, node, express, mongoDB, sequelize, passport, postreSQL
 - :snowflake: learning: sass, locomotive scroll, redux
 - 🔭 workingOn: portfolio
 - :ocean: hobbies: reading, baking, coding
-
