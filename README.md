@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 🌱  🌎  :four_leaf_clover:  🦜 🍐
 ### Hello World!
 
-:cherry_blossom: name: 'kyra rey'
-:chestnut: pronouns: 'she/her'
-🇦🇷 nationality: 'argentinian'
-:sunflower: age: 19
-:cat2: skills: ['javascript', 'html/css', 'react', 'node', 'express', 'mongoDB', 'sequelize', 'passport', 'postreSQL']
-:snowflake: learning: ['sass', 'locomotive scroll', 'redux']
-🔭 workingOn: 'portfolio'
-:ocean: hobbies: ['reading', 'baking', 'coding']
+- :cherry_blossom: name: 'kyra rey'
+- :chestnut: pronouns: 'she/her'
+- 🇦🇷 nationality: 'argentinian'
+- :sunflower: age: 19
+- :cat2: skills: ['javascript', 'html/css', 'react', 'node', 'express', 'mongoDB', 'sequelize', 'passport', 'postreSQL']
+- :snowflake: learning: ['sass', 'locomotive scroll', 'redux']
+- 🔭 workingOn: 'portfolio'
+- :ocean: hobbies: ['reading', 'baking', 'coding']
 
 <a href="https://www.linkedin.com/in/kyrarey/">
     <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
