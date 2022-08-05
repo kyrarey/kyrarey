@@ -16,23 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021)"/>
+![](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021&auto=format&fit=crop&w=1074&q=80)
+
 
 🌱  🌎  :four_leaf_clover:  🦜 🍐
 ### Hello World!
 
-const kyra = {
-name: 'kyra rey ⭐',
-pronouns: 'she/her',
-nationality: 'argentinian 🇦🇷',
-age: 19,
-skills: ['javascript', 'html/css', 'react', 'node', 'express', 'mongoDB', 'sequelize', 'passport', 'postreSQL'],
-learning: ['sass', 'locomotive scroll', 'redux'],
-workingOn: 'portfolio 🔭',
-hobbies: ['reading', 'baking', 'coding']
-}
+:cherry_blossom: name: 'kyra rey'
+:chestnut: pronouns: 'she/her'
+🇦🇷 nationality: 'argentinian'
+:sunflower: age: 19
+:cat2: skills: ['javascript', 'html/css', 'react', 'node', 'express', 'mongoDB', 'sequelize', 'passport', 'postreSQL']
+:snowflake: learning: ['sass', 'locomotive scroll', 'redux']
+🔭 workingOn: 'portfolio'
+:ocean: hobbies: ['reading', 'baking', 'coding']
 
 <a href="https://www.linkedin.com/in/kyrarey/">
-    <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
