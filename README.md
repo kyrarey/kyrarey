@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021"/>
+<img src="[https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021)"/>
 
 🌱  🌎  🍀  🦜 🍐
 Hello World! 
@@ -33,8 +33,8 @@ hobbies: ['reading', 'baking', 'coding']
 }
 
 <a href="https://www.linkedin.com/in/kyrarey/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrarey&theme=dark""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrarey&theme=dark"/>
