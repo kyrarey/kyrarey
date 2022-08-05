@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021&auto=format&fit=crop&w=1074&q=80)
+<a href="https://www.linkedin.com/in/kyrarey/">
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+![](https://tenor.com/view/luana-caminando-pixel-art-girl-gif-17671021)
 
 
 🌱  🌎  :four_leaf_clover:  🦜 🍐
@@ -30,8 +34,4 @@ Here are some ideas to get you started:
 - :snowflake: learning: ['sass', 'locomotive scroll', 'redux']
 - 🔭 workingOn: 'portfolio'
 - :ocean: hobbies: ['reading', 'baking', 'coding']
-
-<a href="https://www.linkedin.com/in/kyrarey/">
-    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
 
