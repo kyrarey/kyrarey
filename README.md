@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 :bouquet: pronouns: she/her \
 🇦🇷 nationality: argentinian \
 :sunflower: bithdate: 14/01/2003 \
-:cat2: skills: javascript, html/css, react, node, express, mongoDB, sequelize, passport, postreSQL \
-:snowflake: learning: sass, redux \
-🔭 workingOn: portfolio \
 :ocean: hobbies: reading, baking, voleyball
